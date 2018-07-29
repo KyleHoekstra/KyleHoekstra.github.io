@@ -5,7 +5,7 @@ body
   font-size: 12pt;
 }
 
-#container {
+.container {
 	margin-top:auto;
 
 	padding: 10px 150px 10px 150px;
