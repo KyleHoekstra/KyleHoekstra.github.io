@@ -6,7 +6,11 @@ body
 }
 
 .container {
-	margin:10%;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:100px;
+	margin-left:100px;
+	
 
 	padding:20px;
 
