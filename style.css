@@ -1,6 +1,6 @@
 body
 {
-  background: url(Background.jpg);
+  background: linear-gradient(black, dark gray);
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
 }
@@ -13,6 +13,7 @@ body
 	padding:25px;
 
 	border-radius: 15px;
-	background-color: #dfdfdf;
+	background: url(background.jpg);
+	
 }
 
