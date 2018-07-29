@@ -1,10 +1,13 @@
-body
+.header{
+  font-size:24pt;
+  
+  
+}body
 {
   background: linear-gradient(black, gray);
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
 }
-
 .container {
 	margin-top:20px;
 	margin-bottom:20px;
@@ -14,6 +17,16 @@ body
 
 	border-radius: 15px;
 	background: url(background.png);
-	
 }
 
+.summary{
+  font-size: 16pt;
+}
+
+.employment{
+  font-size: 16pt;
+}
+
+.education{
+  font-size: 16pt;
+}
