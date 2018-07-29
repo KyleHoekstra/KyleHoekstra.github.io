@@ -5,14 +5,16 @@ body
   font-size: 12pt;
 }
 
-.container{
-  margin-top: 20px;
-  margin-left: 200px;
-  margin-right: 200px;
-	
-  padding: 10px 150px 10px 150px;
+#container {
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
 
-  border-radius: 15px;
-	
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #C4CECD;
+
+	text-align: left;
 }
 
