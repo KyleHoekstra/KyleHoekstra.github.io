@@ -1,13 +1,13 @@
-.header{
-  font-size:24pt;
-  
-  
-}body
-{
+body{
   background: linear-gradient(black, gray);
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
 }
+
+.header{
+	font-size:24pt;
+}
+	
 .container {
 	margin-top:20px;
 	margin-bottom:20px;
@@ -16,7 +16,7 @@
 	padding:25px;
 
 	border-radius: 15px;
-	background: url(Background.png);
+	background: url(BeigePng.png);
 }
 
 .summary{
