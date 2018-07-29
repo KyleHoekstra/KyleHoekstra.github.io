@@ -5,7 +5,7 @@ body{
 }
 
 .header{
-	font-size:24pt;
+	font-size:32pt;
 }
 	
 .container {
@@ -20,13 +20,13 @@ body{
 }
 
 .summary{
-  font-size: 16pt;
+  font-size: 18pt;
 }
 
 .employment{
-  font-size: 16pt;
+  font-size: 18pt;
 }
 
 .education{
-  font-size: 16pt;
+  font-size: 18pt;
 }
