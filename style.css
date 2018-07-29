@@ -1,6 +1,6 @@
 body
 {
-  background url(Background.jpg);
+  background: url(Background.jpg);
   font-family: arial, helvetica, sans-serif;
   font-size: 12pt;
 }
